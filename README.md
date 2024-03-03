@@ -1,7 +1,11 @@
 student-pii-deep-learning
 ==============================
 
-To develop a model that detects personally identifiable information (PII) in student writing. Your efforts to automate the detection and removal of PII from educational data will lower the cost of releasing educational datasets. This will support learning science research and the development of educational tools.
+This repo contains the files for the University of Toronto School of Continuing Studies (SCS) 3546-031 Deep Learning course term project in 2024Q1.
+
+This project is based on the Kaggle competition **The Learning Agency Lab - PII Data Detection**; the goal is to develop a model that detects personally identifiable information (PII) in student writing. This will automate the detection and removal of PII from educational data and will lower the cost of releasing educational datasets, thereby supporting learning science research and the development of educational tools.
+
+Details about the competition can be found at the [official Kaggle page](https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/overview).
 
 Project Organization
 ------------
