@@ -1,4 +1,4 @@
-student-pip-deep-learning
+student-pii-deep-learning
 ==============================
 
 To develop a model that detects personally identifiable information (PII) in student writing. Your efforts to automate the detection and removal of PII from educational data will lower the cost of releasing educational datasets. This will support learning science research and the development of educational tools.
